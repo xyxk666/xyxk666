@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2CI+am++%E9%80%8D%E9%81%A5%E4%BE%A0%E5%AE%A2!" alt="Typing SVG" /></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyxk666&theme=dark&show_icons=true)
